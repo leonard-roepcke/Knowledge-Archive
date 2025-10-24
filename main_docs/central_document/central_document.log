@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  24 OCT 2025 20:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  24 OCT 2025 20:26
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -309,6 +309,11 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
+
+Underfull \hbox (badness 10000) in paragraph at lines 35--38
+[][]\T1/cmr/m/n/12 Schule[][] 
+ []
+
 
 
 [1
