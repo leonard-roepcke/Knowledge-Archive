@@ -18,7 +18,7 @@
     linkcolor=blue,
     urlcolor=blue,
     citecolor=black,
-    pdfauthor={Dein Name},
+    pdfauthor={Leonard Röpcke},
     pdftitle={pdftitle}
 }
 
