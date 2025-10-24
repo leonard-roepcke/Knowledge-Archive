@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  24 OCT 2025 20:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  24 OCT 2025 21:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -310,8 +310,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 33.
 
-Underfull \hbox (badness 10000) in paragraph at lines 35--38
-[][]\T1/cmr/m/n/12 Schule[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 35--39
+[][]\T1/cmr/m/n/12 Schule[][] text 
  []
 
 
@@ -335,9 +335,9 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  75i,6n,79p,366b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on central_document.pdf (1 page, 20168 bytes).
+Output written on central_document.pdf (1 page, 20514 bytes).
 PDF statistics:
- 88 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  28 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
