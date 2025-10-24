@@ -3,8 +3,8 @@ entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/core-user/Knoledge-Archive/main_docs/central_document/central_document
-(/home/core-user/Knoledge-Archive/main_docs/central_document/central_document.tex
+**/home/core-user/Knoledge-Archive/main_docs/school/school
+(/home/core-user/Knoledge-Archive/main_docs/school/school.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -216,17 +216,12 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 23.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `subscript' on input line 23.
-
-(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+ (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box52
-) (./central_document.aux)
-\openout1 = `central_document.aux'.
+) (./school.aux)
+\openout1 = `school.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
@@ -301,9 +296,9 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 29.
- (./central_document.out) (./central_document.out)
+ (./school.out) (./school.out)
 \@outlinefile=\write3
-\openout3 = `central_document.out'.
+\openout3 = `school.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 33.
@@ -313,26 +308,26 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./central_document.aux)
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./school.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-Package rerunfilecheck Info: File `central_document.out' has not changed.
-(rerunfilecheck)             Checksum: 77355D8042DCB8B6DF52A40CE36BC034;83.
+Package rerunfilecheck Info: File `school.out' has not changed.
+(rerunfilecheck)             Checksum: 5094E4EB7061D518F6AABF96528EC15D;93.
  ) 
 Here is how much of TeX's memory you used:
  10736 strings out of 475171
- 167144 string characters out of 5767094
- 581284 words of memory out of 5000000
+ 166924 string characters out of 5767094
+ 581191 words of memory out of 5000000
  33626 multiletter control sequences out of 15000+600000
  563897 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,366b,448s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,346b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on central_document.pdf (1 page, 15918 bytes).
+Output written on school.pdf (1 page, 17645 bytes).
 PDF statistics:
- 75 PDF objects out of 1000 (max. 8388607)
+ 81 PDF objects out of 1000 (max. 8388607)
  30 compressed objects within 1 object stream
  3 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
