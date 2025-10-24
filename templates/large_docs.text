@@ -1,0 +1,37 @@
+\documentclass[12pt,a4paper]{article}
+
+% --- Standard-Imports, die fast immer verfügbar sind ---
+\usepackage[utf8]{inputenc}     % UTF-8 Unterstützung
+\usepackage[T1]{fontenc}        % europäische Zeichen
+\usepackage[ngerman]{babel}     % deutsche Silbentrennung
+\usepackage{geometry}           % Seitenränder einstellen
+\usepackage{graphicx}           % Bilder einbinden
+\usepackage{hyperref}           % klickbare Links
+\usepackage{xcolor}             % Farben (wird von hyperref genutzt)
+
+% --- Seitenlayout ---
+\geometry{margin=2.5cm}
+
+% --- Hyperlink-Stil (wissenschaftlich neutral) ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=black,
+    pdfauthor={Dein Name},
+    pdftitle={pdftitle}
+}
+
+\title{Überschrift}
+\author{Leonard Röpcke}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Einleitung}
+
+
+\end{document}
