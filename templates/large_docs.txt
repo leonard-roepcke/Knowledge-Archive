@@ -8,6 +8,7 @@
 \usepackage{graphicx}           % Bilder einbinden
 \usepackage{hyperref}           % klickbare Links
 \usepackage{xcolor}             % Farben (wird von hyperref genutzt)
+\usepackage{amsmath}
 
 % --- Seitenlayout ---
 \geometry{margin=2.5cm}
