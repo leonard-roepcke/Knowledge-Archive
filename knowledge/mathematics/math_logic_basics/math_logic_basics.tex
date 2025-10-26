@@ -1,0 +1,40 @@
+\documentclass[12pt,a4paper]{article}
+
+% --- Standard-Imports, die fast immer verfügbar sind ---
+\usepackage[utf8]{inputenc}     % UTF-8 Unterstützung
+\usepackage[T1]{fontenc}        % europäische Zeichen
+\usepackage[ngerman]{babel}     % deutsche Silbentrennung
+\usepackage{geometry}           % Seitenränder einstellen
+\usepackage{graphicx}           % Bilder einbinden
+\usepackage{hyperref}           % klickbare Links
+\usepackage{xcolor}             % Farben (wird von hyperref genutzt)
+
+% --- Seitenlayout ---
+\geometry{margin=2.5cm}
+
+% --- Hyperlink-Stil (wissenschaftlich neutral) ---
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    urlcolor=blue,
+    citecolor=black,
+    pdfauthor={Leonard Röpcke},
+    pdftitle={math_logic_basics}
+}
+
+\title{Mathe Basics}
+\author{Leonard Röpcke}
+\date{\today}
+
+\begin{document}
+\maketitle
+\tableofcontents
+\newpage
+
+\section{Ein Aussage}
+In der Mathematik ist eine Aussage ein Satzt der Entweder Richtig oder Falsch sein kann. Zum Beispiel ist der Satz "Es Regnet gerade" eine Aussage.
+Hingegen "Es ist Warm" keine da dieser Satz nicht eindeutig mit Ja oder Nein Beantwortet werden kann.
+Um Aussagen zu vereinfachen und sie nicht jedes mal neu schreiben zu müssen definiert man folgender massen eine Abkürtzung. A:="Es Regnet".
+Das heißt ich kann sagen "Wenn A dann ist der Boden Nass".
+
+\end{document}
