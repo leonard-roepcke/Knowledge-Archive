@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 17:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -216,12 +216,20 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 23.
- (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 23.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `subscript' on input line 23.
+
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 \l__pdf_internal_box=\box52
-)
-No file math_logic_basics.aux.
+) (./math_logic_basics.aux)
 \openout1 = `math_logic_basics.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
@@ -242,6 +250,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 29.
 LaTeX Font Info:    ... okay on input line 29.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -296,6 +305,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package hyperref Info: Link coloring ON on input line 29.
+ (./math_logic_basics.out) (./math_logic_basics.out)
 \@outlinefile=\write3
 \openout3 = `math_logic_basics.out'.
 
@@ -303,8 +313,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <14.4> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 31.
-
-No file math_logic_basics.toc.
+ (./math_logic_basics.toc)
 \tf@toc=\write4
 \openout4 = `math_logic_basics.toc'.
 
@@ -326,22 +335,22 @@ Package rerunfilecheck Warning: File `math_logic_basics.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `math_logic_basics.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  5094E4EB7061D518F6AABF96528EC15D;93.
+(rerunfilecheck)             Before: 5094E4EB7061D518F6AABF96528EC15D;93
+(rerunfilecheck)             After:  D86E9091A982979516253040D75C9143;101.
  ) 
 Here is how much of TeX's memory you used:
- 10732 strings out of 475171
- 167072 string characters out of 5767094
- 581200 words of memory out of 5000000
- 33625 multiletter control sequences out of 15000+600000
- 563897 words of font info for 45 fonts, out of 8000000 for 9000
+ 10755 strings out of 475171
+ 167493 string characters out of 5767094
+ 582345 words of memory out of 5000000
+ 33639 multiletter control sequences out of 15000+600000
+ 564673 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,381b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on math_logic_basics.pdf (2 pages, 18244 bytes).
+ 75i,6n,79p,381b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
+Output written on math_logic_basics.pdf (2 pages, 35887 bytes).
 PDF statistics:
- 84 PDF objects out of 1000 (max. 8388607)
- 30 compressed objects within 1 object stream
+ 150 PDF objects out of 1000 (max. 8388607)
+ 39 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 

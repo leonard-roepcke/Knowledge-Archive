@@ -1,2 +1,2 @@
 \babel@toc {ngerman}{}\relax 
-\contentsline {section}{\numberline {1}Einleitung}{2}{section.1}%
+\contentsline {section}{\numberline {1}Ein Aussage}{2}{section.1}%
