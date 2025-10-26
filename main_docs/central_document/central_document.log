@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 18:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 18:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -306,19 +306,9 @@ Package hyperref Info: Link coloring ON on input line 29.
 \openout3 = `central_document.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 33.
+(Font)              <14.4> on input line 31.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 33.
-
-Underfull \hbox (badness 10000) in paragraph at lines 36--39
-[][]\T1/cmr/m/n/12 Schule[][] 
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 40--43
-[][]\T1/cmr/m/n/12 VS-Code Short-cuts[][] 
- []
-
+(Font)              <7> on input line 31.
 
 
 [1
@@ -338,9 +328,9 @@ Here is how much of TeX's memory you used:
  33626 multiletter control sequences out of 15000+600000
  563897 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,367b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,6n,79p,367b,454s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on central_document.pdf (1 page, 25880 bytes).
+Output written on central_document.pdf (1 page, 25874 bytes).
 PDF statistics:
  113 PDF objects out of 1000 (max. 8388607)
  36 compressed objects within 1 object stream
