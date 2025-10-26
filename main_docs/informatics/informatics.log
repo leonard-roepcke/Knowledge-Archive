@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  25 OCT 2025 10:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 18:25
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**/home/core-user/Knoledge-Archive/main_docs/informatics/informatics
-(/home/core-user/Knoledge-Archive/main_docs/informatics/informatics.tex
+**/home/core-user/Knowledge-Archive/main_docs/informatics/informatics
+(/home/core-user/Knowledge-Archive/main_docs/informatics/informatics.tex
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
@@ -301,13 +301,9 @@ Package hyperref Info: Link coloring ON on input line 29.
 \openout3 = `informatics.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 31.
+(Font)              <14.4> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
- (./informatics.toc)
-\tf@toc=\write4
-\openout4 = `informatics.toc'.
-
+(Font)              <7> on input line 33.
 
 
 [1
@@ -321,18 +317,18 @@ Package rerunfilecheck Info: File `informatics.out' has not changed.
 (rerunfilecheck)             Checksum: 0B93AC3FADF0A8E61C2987245E730C2B;121.
  ) 
 Here is how much of TeX's memory you used:
- 10746 strings out of 475171
- 167178 string characters out of 5767094
- 582276 words of memory out of 5000000
- 33631 multiletter control sequences out of 15000+600000
- 564673 words of font info for 46 fonts, out of 8000000 for 9000
+ 10736 strings out of 475171
+ 167037 string characters out of 5767094
+ 581276 words of memory out of 5000000
+ 33626 multiletter control sequences out of 15000+600000
+ 563897 words of font info for 45 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 75i,6n,79p,356b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
- </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on informatics.pdf (1 page, 21522 bytes).
+ 75i,6n,79p,357b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
+Output written on informatics.pdf (1 page, 16785 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 37 compressed objects within 1 object stream
- 4 named destinations out of 1000 (max. 500000)
+ 79 PDF objects out of 1000 (max. 8388607)
+ 31 compressed objects within 1 object stream
+ 3 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
