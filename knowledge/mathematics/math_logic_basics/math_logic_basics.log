@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 17:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2026/dev/Arch Linux) (preloaded format=pdflatex 2025.10.24)  26 OCT 2025 17:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -328,28 +328,21 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-Package rerunfilecheck Warning: File `math_logic_basics.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `math_logic_basics.out':
-(rerunfilecheck)             Before: 5094E4EB7061D518F6AABF96528EC15D;93
-(rerunfilecheck)             After:  D86E9091A982979516253040D75C9143;101.
+Package rerunfilecheck Info: File `math_logic_basics.out' has not changed.
+(rerunfilecheck)             Checksum: D86E9091A982979516253040D75C9143;101.
  ) 
 Here is how much of TeX's memory you used:
  10755 strings out of 475171
  167493 string characters out of 5767094
- 582345 words of memory out of 5000000
+ 582346 words of memory out of 5000000
  33639 multiletter control sequences out of 15000+600000
  564673 words of font info for 46 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  75i,6n,79p,381b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1200.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecbx1728.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm1440.600pk> </home/core-user/.texlive/texmf-var/fonts/pk/ljfour/jknappen/ec/ecrm2074.600pk>
-Output written on math_logic_basics.pdf (2 pages, 35887 bytes).
+Output written on math_logic_basics.pdf (2 pages, 36467 bytes).
 PDF statistics:
- 150 PDF objects out of 1000 (max. 8388607)
+ 151 PDF objects out of 1000 (max. 8388607)
  39 compressed objects within 1 object stream
  5 named destinations out of 1000 (max. 500000)
  9 words of extra memory for PDF output out of 10000 (max. 10000000)
