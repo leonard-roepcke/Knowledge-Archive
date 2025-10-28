@@ -29,10 +29,10 @@
 
 \begin{document}
 \maketitle
-\tableofcontents
-\newpage
+%\tableofcontents
+%\newpage
 
-\section{Einleitung}
+\section*{Einleitung}
 
 
 \end{document}

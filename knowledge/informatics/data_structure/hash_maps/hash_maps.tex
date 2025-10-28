@@ -8,6 +8,7 @@
 \usepackage{graphicx}           % Bilder einbinden
 \usepackage{hyperref}           % klickbare Links
 \usepackage{xcolor}             % Farben (wird von hyperref genutzt)
+\usepackage{amsmath}
 
 % --- Seitenlayout ---
 \geometry{margin=2.5cm}
@@ -19,10 +20,10 @@
     urlcolor=blue,
     citecolor=black,
     pdfauthor={Leonard Röpcke},
-    pdftitle={informatics}
+    pdftitle={hash_maps}
 }
 
-\title{Informatik}
+\title{Hash Maps}
 \author{Leonard Röpcke}
 \date{\today}
 
@@ -31,9 +32,13 @@
 %\tableofcontents
 %\newpage
 
-\section{Data Structures}
+\section*{Erklärung}
+Eine Hash Map ist eine erweiterte Form eines 
+\href{https://leonard-roepcke.github.io/Knowledge-Archive/knowledge/informatics/data_structure/set/set.pdf}{Sets}
+. Während ein 
 \href{https://leonard-roepcke.github.io/Knowledge-Archive/knowledge/informatics/data_structure/set/set.pdf}{Set}
-\break
-\href{https://leonard-roepcke.github.io/Knowledge-Archive/knowledge/informatics/data_structure/hash_maps/hash_maps.pdf}{Hash Map}
+ nur einzelne Schlüssel speichert, ordnet eine Hash Map jedem Schlüssel (Key) einen zugehörigen 
+ Wert zu. Dazu wird der Key mithilfe einer Hash-Funktion in einen Hash-Wert umgewandelt. 
+ Dieser Hash-Wert bestimmt die Position im Speicher, an der der zugehörige Wert abgelegt ist.
 
 \end{document}
